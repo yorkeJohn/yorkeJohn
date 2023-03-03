@@ -1,7 +1,7 @@
 ### Hi there 👋
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on ...<br>🌱 I’m currently learning full stack web technologies<br>💬 Ask me about my Minecraft mods<br>📫 Reach me by email
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
