@@ -60,4 +60,4 @@
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) 
 # 📈 Stats
-<img align="center" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yorkeJohn" /> <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorkeJohn&include_all_commits=true&count_private=true" />
+<img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yorkeJohn" /> <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorkeJohn&include_all_commits=true&count_private=true&layout=compact" />
