@@ -1,7 +1,13 @@
-### Hi there 👋
 # 💫 About Me
-🔭 I’m currently working on ...<br>🌱 I’m currently learning full stack web technologies<br>💬 Ask me about my Minecraft mods<br>📫 Reach me by email
-# 💻 Tech Stack
+### Hi there 👋
+I'm a third-year Computer Science student at Saint Mary's University with a passion for software engineering and design. 
+
+I'm constantly seeking out new ways to develop my technical skills and grow as a developer. I'm always eager to learn and improve, and I believe that the world of software provides endless opportunities to do so by collaborating with others to bring ideas to life.
+
+When I'm not studying or working on code, you can find me enjoying video games, out on a hike, or tending to my bonsai garden. I'm excited to see where my passion takes me, and I'm looking forward to the challenges and opportunities that lie ahead. 
+
+Let's connect and chat about tech!
+# 💻 Technologies I Use
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
