@@ -4,9 +4,9 @@ I'm a third-year Computer Science student at Saint Mary's University with a pass
 
 I'm constantly seeking out new ways to develop my technical skills and grow as a developer. I'm always eager to learn and improve, and I believe that the world of software provides endless opportunities to do so by collaborating with others to bring ideas to life.
 
-When I'm not studying or working on code, you can find me enjoying video games, out on a hike, or tending to my bonsai garden. I'm excited to see where my passion takes me, and I'm looking forward to the challenges and opportunities that lie ahead. 
+When I'm not studying or working on code, you can find me enjoying video games, out on a hike, or tending to my bonsai garden.
 
-Let's connect and chat about tech!
+I'm excited to see where my passion takes me. Let's connect and chat about tech!
 # 💻 Technologies I Use
 ### Programming Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
