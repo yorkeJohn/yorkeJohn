@@ -65,6 +65,9 @@ I'm excited to see where my passion takes me. Let's connect and chat about tech!
 ![Subversion](https://img.shields.io/badge/subversion-%230084FF?logo=subversion&style=for-the-badge&logoColor=white)
 ### Other
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Bamboo](https://img.shields.io/badge/bamboo-%230000FF?logo=bamboo&style=for-the-badge&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-0000ff?logo=confluence&style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
