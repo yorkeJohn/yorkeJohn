@@ -1,6 +1,6 @@
 # 💫 About Me
 ### Hi there 👋
-I'm a third-year Computer Science student at Saint Mary's University with a passion for software engineering and design. 
+I'm a fourth-year Computer Science student at Saint Mary's University with a passion for software engineering and design. 
 
 I'm constantly seeking out new ways to develop my technical skills and grow as a developer. I'm always eager to learn and improve, and I believe that the world of software provides endless opportunities to do so by collaborating with others to bring ideas to life.
 
