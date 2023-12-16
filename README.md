@@ -1,4 +1,5 @@
-### Check out my organization ![Larix Dev](https://github.com/larix-dev)
+### ✨ Check out my organization!
+![Larix Dev](https://img.shields.io/badge/Larix%20Dev-none?style=for-the-badge&logo=github&logoColor=white&labelColor=1b1b1c&color=0C343D&link=https%3A%2F%2Fgithub.com%2Flarix-dev)
 # 💫 About Me
 ### Hi there 👋
 I'm a fourth-year Computer Science student at Saint Mary's University with a passion for software engineering and design. 
