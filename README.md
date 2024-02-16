@@ -2,7 +2,7 @@
 [![Larix Dev](https://img.shields.io/badge/Larix%20Dev-none?style=for-the-badge&logo=github&logoColor=white&color=0C343D)](https://github.com/larix-dev)
 # 💫 About Me
 ### Hi there 👋
-I'm a fourth-year Computer Science student at Saint Mary's University with a passion for software engineering and design. 
+I'm a software engineer who combines technical expertise with my passion for design!
 
 I'm constantly seeking out new ways to develop my technical skills and grow as a developer. I'm always eager to learn and improve, and I believe that the world of software provides endless opportunities to do so by collaborating with others to bring ideas to life.
 
