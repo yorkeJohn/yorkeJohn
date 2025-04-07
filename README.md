@@ -1,5 +1,5 @@
 ### ✨ Check out my organization!
-[![Larix Dev](https://img.shields.io/badge/Larix%20Dev-none?style=for-the-badge&logo=github&logoColor=white&color=0C343D)](https://github.com/larix-dev)
+[![Larix Software](https://img.shields.io/badge/Larix%20Software-none?style=for-the-badge&logo=github&logoColor=white&color=9BA542)](https://github.com/larixsw)
 # 💫 About Me
 ### Hi there 👋
 I'm a software engineer who combines technical expertise with my passion for design!
