@@ -3,12 +3,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yorkejohn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/128378400803913728" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/yorkejohn/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  /></a>
+  <a href="https://discord.com/users/128378400803913728" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio%20(Coming%20Soon)&label=&color=6b0096&logoColor=white&labelColor=&style=for-the-badge" height="40" alt=""  /></a>
+  <a href="https://github.com/larixsw" target="_blank"><img src="https://img.shields.io/badge/Larix%20Software-none?style=for-the-badge&logo=github&logoColor=white&color=9BA542" height="40" alt=""  /></a>
 </div>
 
 ###
