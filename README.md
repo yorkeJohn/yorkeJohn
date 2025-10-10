@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Hey there!👋 My name is John. I am a passionate full-stack software engineer based in Halifax, N.S., Canada 🇨🇦<br><br>I am currently working in the energy industry with a focus on solving real-world problems through innovative platform development. I enjoy tackling challenges that balance technical depth with usability, whether it’s streamlining workflows, optimizing performance, or building tools that just make life easier. My philosophy leans toward simplicity and maintainability: write clean code that scales while being easy to understand. This space is where I share projects and things I’m learning along the way.<br><br>Let's connect and chat about tech!</p>
+<p align="left">Hey there!👋 My name is John. I am a passionate full-stack software engineer based in Halifax, N.S., Canada 🇨🇦<br><br>I am currently working in the energy industry with a focus on solving real-world problems through innovative product development. I like working on problems where engineering makes a real impact- where domain knowledge is just as important as technical skills. That means streamlining workflows, optimizing performance, or building features that just make life easier. My philosophy leans toward simplicity and maintainability: write clean code that scales while being easy to understand.<br><br>This space is where I share projects and things I’m learning along the way. Let's connect and chat about tech!</p>
 
 ###
 
