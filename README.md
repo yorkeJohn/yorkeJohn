@@ -1,11 +1,18 @@
 # ⚡ John Yorke
+<div>
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio%20(WIP)&label=&color=1b1b1c&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://github.com/larixsw" target="_blank"><img src="https://img.shields.io/badge/Larix-none?style=for-the-badge&logo=github&logoColor=white&color=0C343D" alt="Larix" /></a>
+  <a href="https://www.linkedin.com/in/yorkejohn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+  <a href="https://discord.com/users/128378400803913728" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yorkeJohn&theme=github_dark" alt="Summary card" />
+###
 
-<a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio%20(WIP)&label=&color=1b1b1c&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://github.com/larixsw" target="_blank"><img src="https://img.shields.io/badge/Larix-none?style=for-the-badge&logo=github&logoColor=white&color=0C343D" alt="Larix" /></a>
-<a href="https://www.linkedin.com/in/yorkejohn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://discord.com/users/128378400803913728" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yorkeJohn&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yorkeJohn&theme=github_light"/>
+  <img alt="Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yorkeJohn&theme=github_dark" />
+</picture>
 
 ### 👋 Hey there
 
@@ -58,4 +65,10 @@ Currently building, learning, and refining systems that scale.
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </div>
 
-<img src="https://raw.githubusercontent.com/yorkeJohn/yorkeJohn/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yorkeJohn/yorkeJohn/breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yorkeJohn/yorkeJohn/breakout/images/breakout-light.svg"/>
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/yorkeJohn/yorkeJohn/breakout/images/breakout-dark.svg" />
+</picture>
