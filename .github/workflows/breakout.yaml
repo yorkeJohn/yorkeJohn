@@ -1,4 +1,4 @@
-name: generate breakout svg
+name: Generate Breakout SVG
 
 on:
   schedule:
