@@ -42,7 +42,6 @@ Currently building, learning, and refining systems that scale.
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"  />
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"  />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma ORM"  />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ### 📊 Working with data
@@ -60,6 +59,7 @@ Currently building, learning, and refining systems that scale.
 ### 📦 Additional experience
 
 <div>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E57324" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
