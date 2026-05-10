@@ -1,6 +1,6 @@
 # ⚡ John Yorke
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio%20(WIP)&label=&color=1b1b1c&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://yorkejohn.dev" target="_blank"><img src="https://img.shields.io/static/v1?message=Personal%20Website&label=&color=1b1b1c&logoColor=white&style=for-the-badge" alt="Personal Website" /></a>
   <a href="https://github.com/larixsw" target="_blank"><img src="https://img.shields.io/badge/Larix-none?style=for-the-badge&logo=github&logoColor=white&color=0C343D" alt="Larix" /></a>
   <a href="https://www.linkedin.com/in/yorkejohn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
   <a href="https://discord.com/users/128378400803913728" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
